@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 🧳 Stress-free travel planning for NYC: one input, one click, a fully customized itinerary.  
 🔗 [Live Demo](https://smarttrip.duckdns.org/)
 
----
-
 ### 🚲 [DublinBikes](https://github.com/imyuanhui/comp30830-group4)  
 📍 Real-time & forecasted visualization of Dublin’s public bike-sharing system.  
 🔗 [Project Overview](https://drive.google.com/file/d/1PkvOQU6m2fmazRwlxgVWh0_8SxZSFpqd/view)
@@ -24,8 +22,6 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 🏆 Hack Ireland 2025 – Best Team Under 21 | FinTech Track Runner-up  
 🔗 [Devpost Page](https://devpost.com/software/hackireland-2025-team-8-tradesure?ref_content=my-projects-tab&ref_feature=my_projects)
 
----
-
 ### 🕊️ [WhisperWall](https://github.com/imyuanhui/WhisperWall)  
 💬 An anonymous social blogging platform for identity-free expression.  
 🔗 [Live Demo](https://whisperwall-d2ry.onrender.com/)
@@ -34,18 +30,8 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
   </tr>
 </table>
 
----
 
 ## 🛠 Tech Stack
-
-- 💻 **Languages**: Python, Java, JavaScript, TypeScript, Bash, PHP  
-- ⚙️ **Frameworks**: Spring Boot, Flask, React, Vue, Node.js  
-- 🗄 **Databases**: MySQL, PostgreSQL, Firebase, MongoDB  
-- 🧰 **Tools**: Git, Docker, VSCode, Postman
-
----
-
-### 🛠 Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
@@ -74,15 +60,11 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 
----
-
 ## ✍️ Blog Highlights
 
 - 🧠 [How to Grind Your First 100 LeetCode Problems as a Complete Beginner](https://medium.com/@xuyuanhui37/how-to-grind-your-first-100-leetcode-problems-as-a-complete-beginner-c0bdd3949e69)  
 - 🧱 [Understanding “Object-Oriented” in a Simple Way](https://medium.com/@xuyuanhui37/understanding-object-oriented-in-a-simple-way-ffde47c2b5a5)  
 - 🌱 [From Arts Grad to Frontend Intern: My 2-Month Journey](https://medium.com/@xuyuanhui37/from-arts-grad-to-frontend-intern-my-2-month-journey-3b2e565a0f9f)
-
----
 
 ## 🤝 Let's Connect
 
