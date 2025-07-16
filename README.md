@@ -38,8 +38,6 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 - 🗄 **Databases**: MySQL, PostgreSQL, Firebase, MongoDB  
 - 🧰 **Tools**: Git, Docker, VSCode, Postman
 
-Absolutely! Here's your **Tech Stack section** rewritten using **icon-style badges** for a more visual and professional look, using shields.io-style markdown that works well on GitHub:
-
 ---
 
 ### 🛠 Tech Stack
