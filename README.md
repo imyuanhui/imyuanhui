@@ -6,16 +6,13 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 
 ## 🌟 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 🗽 [SmartTripNYC](https://github.com/imyuanhui/COMP47360)  
 🧳 Stress-free travel planning for NYC: one input, one click, a fully customized itinerary.  
 🔗 [Live Demo](https://smarttrip.duckdns.org/)
-
----
-
-### 🔐 [TradeSure](https://github.com/samennis1/Team8)  
-💼 Escrow platform that makes second-hand electronics trading safer and simpler.  
-🏆 Hack Ireland 2025 – Best Team Under 21 | FinTech Track Runner-up  
-🔗 [Devpost Project Page](https://devpost.com/software/hackireland-2025-team-8-tradesure?ref_content=my-projects-tab&ref_feature=my_projects)
 
 ---
 
@@ -23,11 +20,23 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 📍 Real-time & forecasted visualization of Dublin’s public bike-sharing system.  
 🔗 [Project Overview](https://drive.google.com/file/d/1PkvOQU6m2fmazRwlxgVWh0_8SxZSFpqd/view)
 
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [TradeSure](https://github.com/samennis1/Team8)  
+💼 Escrow platform that makes second-hand electronics trading safer and simpler.  
+🏆 Hack Ireland 2025 – Best Team Under 21 | FinTech Track Runner-up  
+🔗 [Devpost Page](https://devpost.com/software/hackireland-2025-team-8-tradesure?ref_content=my-projects-tab&ref_feature=my_projects)
+
 ---
 
 ### 🕊️ [WhisperWall](https://github.com/imyuanhui/WhisperWall)  
-💬 An anonymous social blogging platform for open, identity-free expression.  
+💬 An anonymous social blogging platform for identity-free expression.  
 🔗 [Live Demo](https://whisperwall-d2ry.onrender.com/)
+
+</td>
+  </tr>
+</table>
 
 ---
 
