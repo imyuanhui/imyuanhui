@@ -8,10 +8,12 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 
 ### 🗽 [SmartTripNYC](https://github.com/imyuanhui/COMP47360)  
 🧳 Stress-free travel planning for NYC: one input, one click, a fully customized itinerary.  
+
 🔗 [Live Demo](https://smarttrip.duckdns.org/)
 
 ### 🚲 [DublinBikes](https://github.com/imyuanhui/comp30830-group4)  
 📍 Real-time and forecast-based visualization with journey planning for Dublin’s public bike-sharing system.
+
 🔗 [Project Overview](https://drive.google.com/file/d/1PkvOQU6m2fmazRwlxgVWh0_8SxZSFpqd/view)
 
 </td>
@@ -19,11 +21,14 @@ Welcome to my GitHub profile! I'm passionate about building thoughtful, user-fri
 
 ### 🔐 [TradeSure](https://github.com/samennis1/Team8)  
 💼 Escrow platform for safer & simpler second-hand electronics trading.
+
 🏆 Hack Ireland 2025 – Best Team Under 21 | FinTech Track Runner-up
+
 🔗 [Devpost Page](https://devpost.com/software/hackireland-2025-team-8-tradesure?ref_content=my-projects-tab&ref_feature=my_projects)
 
 ### 🕊️ [WhisperWall](https://github.com/imyuanhui/WhisperWall)  
 💬 Anonymous blogging platform for identity-free expression.  
+
 🔗 [Live Demo](https://whisperwall-d2ry.onrender.com/)
 
 </td>
