@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about building thoughtful, user-friendly web applications and turning creative ideas into real-world solutions. Here are some of my favorite projects:
 
----
-
-## 🌟 Featured Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
